@@ -1,6 +1,6 @@
 {
   "name": "uuidtest",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A total waste of time",
   "main": "uuidtest.js",
   "scripts": {
