@@ -4,7 +4,7 @@
   "description": "A total waste of time",
   "main": "uuidtest.js",
   "scripts": {
-    "start": "node uuidtest",
+    "start": "node uuidtest"
   },
   "author": "Tom Fagerland",
   "license": "ISC",
